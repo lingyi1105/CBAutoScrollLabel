@@ -1,3 +1,13 @@
+# 跑马灯LabelView
+
+## forked from bhanubirani/CBAutoScrollLabel
+
+增加 IBInspectable 支持
+
+
+
+
+
 ##AutoScrollLabel
 
 Credits: https://github.com/cbess/AutoScrollLabel
